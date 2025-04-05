@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+
+  
+</style>
+<title>hello</title>
+<style>
+#IGIRANEZA{
+    color: blueviolet;
+}
+.Elyse{
+    color: blue;
+}
+</style>
+</head>
+<body>
+<h1 id="Valentine">welcome to my web page</h1>
+<h1>welcome to my web page</h1>
+<h1 class="Elyse"> welcome to my web page</h1>
+<h1>welcome to my web page</h1>
+
+
+</body>
+
+</html>
