@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<body>
+  <h>A list of things to learn </h>
+   <ul>
+    <li><p> this pages shows us how lists work</p></li>
+    <li><p>we need to encode <a href="image.html"> image</a></p></li>
+    <li><p>we should learn about<a href="flex box.html">flex box</a></p></li>
+    <li><p>we should learn about <a href="tables.html"> tables</a></p></li>
+    <li><p>we shuold learn about<a href="hover.html"> hover</a></p></li>
+    <li><p>we could learn about <a href="style.html"> style</a></p></li>
+    <li><p>we could learn about <a href="submit.html"> submit</a></p></li>
+    <li><p>we could back to the fonts<a href="list.html">list</a></p></li>
+    <li><p>we could back to the link<a href="ordered list.html">ordered list</a></p></li>
+</body>
+    
+
+</html>
